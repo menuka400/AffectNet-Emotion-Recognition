@@ -1,4 +1,4 @@
-# AffectNet-Emotion-Recognition
+# Real-Time Emotion Detection using AffectNet
 
 This project implements a real-time emotion detection system using a deep learning model trained on the AffectNet dataset. The model is capable of recognizing eight emotions: **Angry, Disgust, Fear, Happiness, Neutral, Sadness, Surprise, and Contempt**.
 
@@ -10,6 +10,8 @@ This project implements a real-time emotion detection system using a deep learni
 
 ## Dataset
 This model is trained using the **AffectNet** dataset, a large-scale facial expression dataset containing annotated images of different human emotions. The dataset was preprocessed by resizing images to **96x96** pixels and normalizing pixel values.
+
+Dataset link: [AffectNet on Kaggle](https://www.kaggle.com/datasets/thienkhonghoc/affectnet/code)
 
 ## Installation
 To set up the project, first install the required dependencies:
