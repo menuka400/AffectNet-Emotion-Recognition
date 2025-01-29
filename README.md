@@ -34,7 +34,7 @@ This will:
 To run real-time emotion detection using a webcam, execute:
 
 ```bash
-python realtime_emotion_detection.py
+python main.py
 ```
 
 ## Model Architecture
